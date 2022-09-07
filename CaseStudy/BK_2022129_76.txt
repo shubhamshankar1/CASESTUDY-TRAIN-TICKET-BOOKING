@@ -1,0 +1,15 @@
+PNR				:	BK_2022129_76
+TrainNo			:	8003
+Train Name		:	Yashwantpur Express
+From			:	Bangalore
+To				:	Kolkata
+Travel Date		:	9/12/2022
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+Amit		23		M		3000.0
+Shubham		24		M		3000.0
+
+Total Price: 6000.0

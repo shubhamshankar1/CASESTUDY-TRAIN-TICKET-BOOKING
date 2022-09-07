@@ -1,0 +1,16 @@
+PNR				:	BD_2022118_0
+TrainNo			:	8001
+Train Name		:	Rajdhani Express
+From			:	Bangalore
+To				:	Delhi
+Travel Date		:	8/11/2022
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+Vishek		25		M		3600.0
+Ron		26		M		3600.0
+Basu		25		M		3600.0
+
+Total Price: 10800.0

@@ -1,0 +1,16 @@
+PNR				:	BD_20221116_75
+TrainNo			:	8002
+Train Name		:	Rajdhani Express
+From			:	Bangalore
+To				:	Delhi
+Travel Date		:	16/11/2022
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+Shruti		21		F		900.0
+Vishu		23		M		3600.0
+Abhi		24		M		3600.0
+
+Total Price: 8100.0
